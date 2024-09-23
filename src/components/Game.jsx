@@ -6,7 +6,7 @@ const Game = (props) => {
             <img src={props.pic} alt="game cover" className="game-image"/>
             <h5>Title: {props.title}</h5>
             <h5>Genre: {props.genre}</h5>
-            <a href={props.site}>
+            <a href={props.site} target="_blank">
             <button>Buy Now!</button>
             </a>
         </div>
