@@ -34,7 +34,7 @@ const GameCollector = () => {
         <Game title="Marvel's Spider-Man 2" genre="Action-Adventure" pic="src\pictures\SpiderMan2PS5BoxArt.jpeg"/>
       </div>
       <div className='game-card'>
-        <Game title="Sonic X Shadow: Generations" genre="Platformer" pic="src\pictures\SonicXShadow.webp"/>
+        <Game title="Dragon Ball Z: Kakarot" genre="Action" pic="src\pictures\DragonBall.webp"/>
       </div>
     </div>
   );
