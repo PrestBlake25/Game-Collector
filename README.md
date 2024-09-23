@@ -26,7 +26,7 @@ The following **additional** features are implemented:
 
 Here's a walkthrough of implemented required features:
 
-<img src="src\pictures\GameCollector.gif" width="1343px" height="635px"/>
+<img src="src\pictures\GameCollector.gif" width="1435px" height="635px"/>
 
 <!-- Replace this with whatever GIF tool you used! -->
 GIF created with [ScreenToGif](https://www.screentogif.com/) for Windows.
